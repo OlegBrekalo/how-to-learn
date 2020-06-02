@@ -1,0 +1,16 @@
+@keyframes kf_rotation{
+  from{
+    transform: rotate(0);
+  }
+
+  to{
+    transform: rotate(360deg);
+  }
+}
+
+.rotation{
+  animation-name: kf_rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
