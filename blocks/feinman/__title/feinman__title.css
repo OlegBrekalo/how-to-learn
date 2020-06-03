@@ -1,6 +1,6 @@
 .feinman__title {
   margin: 0;
-  width: 648px;
+  max-width: 648px;
   margin-bottom: 70px;
   text-align: center;
   line-height: 1.15;
